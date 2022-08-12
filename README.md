@@ -1,6 +1,6 @@
 # todolist-vue-express-mysql
 
-前后端分离的todolist，vue,express,mysql的学习项目。
+麻雀虽小，五脏俱全。前后端分离的todolist,vue,express,mysql的学习项目。
 
 ### 在线演示地址
 
